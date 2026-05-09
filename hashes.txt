@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Merayti
+
+This log tracks the cryptographic history and versioning for the song **Ya Merayti** (ya-merayti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:14:08.507117 | `v1` | `e94793366281256d4c963657ef93d7cc122ca4d5552917047aa1675cbbfb221a` | `93b19d6cba0625fecba044c9199a2881bcb29750fc5ba96b1a7048cadab5693c` | `2026-05-09_ya-merayti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
